@@ -1,3 +1,12 @@
+# How is this repository different from the original?
+
+This repository adds reporting of the current playback position of every **Media Player Classic - Home Cinema** instance to a shared memory.
+<br/>This feature was added solely to be consumed by the [Windows Session Saver](https://github.com/IvanStoychev/Windows-session-saver) application.
+
+In addition this repository is forked at the 2.1.6 tag of the original due to degradation in more recent releases.
+
+---
+
 # Media Player Classic - Home Cinema
 
 Media Player Classic - Home Cinema (MPC-HC) is a free and open-source video and audio player for Windows. MPC-HC is based on the original Guliverkli project and contains many additional features and bug fixes.
